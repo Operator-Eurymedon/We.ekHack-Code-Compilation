@@ -14,6 +14,7 @@
 
 <div align="left">
   Sources for the sample problem set are taken from We.ekHack Warm-up Questions.<br>
+  The Github Platform will be used to collaborate code amongst members in solving the problem sets.<br>
   Link to the problem set: https://www.hackerrank.com/contests/weekhack-warmup-msuiit/challenges
 </div>
 <div align="center">
