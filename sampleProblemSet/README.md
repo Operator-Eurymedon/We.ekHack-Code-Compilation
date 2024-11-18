@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Sample problem sets will be used to practice using Github.
+  # Sample Problem Sets here will be used to Practice using Github.
   
 </div>
 
@@ -13,7 +13,7 @@
 
 <div align="center">
   
-  ## The sample sets will be taken from HackerRank.
+  ### The sample sets shall be taken from HackerRank.
   
 </div>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
   
-### Problem Name: 3D Surface Area.
+## Problem Name: 3D Surface Area.
   
 </div>
 
