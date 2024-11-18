@@ -20,9 +20,7 @@
 ---
 
 <div align="center">
-  <h3>
-    Problem Name: 3D Surface Area.
-  </h3>
+    ### Problem Name: 3D Surface Area.
 </div>
 
 <div align="left">
