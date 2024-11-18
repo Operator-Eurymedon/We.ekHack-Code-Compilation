@@ -20,7 +20,7 @@
 <div align="center">
   <h2>
     Problem Name: 3D Surface Area.
-  </h2>
+  </h3>
 </div>
 
 <div align="left">
