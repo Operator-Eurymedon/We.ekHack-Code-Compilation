@@ -4,19 +4,6 @@
   
 </div>
 
-<div align="center">
-  
-  
-  
-  
-</div>
-
-<div align="center">
-  
-  
-  
-</div>
-
 
 <div align="center">
   
@@ -30,13 +17,13 @@
   Link to the problem set: https://www.hackerrank.com/contests/weekhack-warmup-msuiit/challenges
 </div>
 <div align="center">
+
+##
   
 ### Problem Name: 3D Surface Area.
   
 </div>
 
 <div align="left">
-  <p>
   Link to the problem set: https://www.hackerrank.com/contests/weekhack-warmup-msuiit/challenges
-  </p>
 </div>
