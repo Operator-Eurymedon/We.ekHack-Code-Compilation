@@ -17,10 +17,12 @@
   </p>
 </div>
 
+---
+
 <div align="center">
   <h3>
     Problem Name: 3D Surface Area.
-  </h2>
+  </h3>
 </div>
 
 <div align="left">
