@@ -1,14 +1,13 @@
 <div align="center">
-  <h1>This is a sample problem set that is used to practice using Github.</h1>
+  <h1>
+    This is a sample problem set that is used to practice using Github.
+  </h1>
 </div>
 
 <div align="center">
-  <h2>This is a sample problem set that is used to practice using Github.</h2>
-
-   <p align="left">
-  Sources for the sample problem set are taken from We.ekHack Warm-up Questions.<br>
-  Link to the problem set: https://www.hackerrank.com/contests/weekhack-warmup-msuiit/challenges
-  </p>
+  <h3>
+    This is a sample problem set that is used to practice using Github.
+  </h3>
   
 </div>
 
@@ -20,9 +19,9 @@
 </div>
 
 <div align="center">
-  <h3>
-  Problem Name: 3D Surface Area.
-  </h3>
+  <h4>
+    Problem Name: 3D Surface Area.
+  </h4>
 </div>
 
 <div align="left">
