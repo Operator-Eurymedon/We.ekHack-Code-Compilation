@@ -31,7 +31,7 @@
 </div>
 <div align="center">
   
-## Problem Name: 3D Surface Area.
+### Problem Name: 3D Surface Area.
   
 </div>
 
