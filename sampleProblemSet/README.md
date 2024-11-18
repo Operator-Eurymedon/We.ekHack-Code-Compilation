@@ -19,8 +19,8 @@
 
 ---
 
-<div align="center">
-    ### Problem Name: 3D Surface Area.
+### <div align="center">
+###    Problem Name: 3D Surface Area.
 </div>
 
 <div align="left">
