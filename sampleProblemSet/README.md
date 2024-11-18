@@ -20,7 +20,7 @@
 
 <div align="center">
   
-  ## Sample Sets shall be taken from HackerRank.
+  ### Sample Sets shall be taken from HackerRank.
   
 </div>
 
