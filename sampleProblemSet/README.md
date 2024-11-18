@@ -6,14 +6,14 @@
 
 <div align="center">
   
-  ## In README.md
+  ## README
   Details about the problem set will not be posted here, rather; the links leading to the problem will be given or images will be provided.
   
 </div>
 
 <div align="center">
   
-  ### The sample sets will be taken from HackerRank.
+  ## The sample sets will be taken from HackerRank.
   
 </div>
 
