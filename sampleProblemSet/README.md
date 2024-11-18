@@ -23,7 +23,6 @@
     Problem Name: 3D Surface Area.
   </h2>
 </div>
-
 <div align="left">
   <p>
   Link to the problem set: https://www.hackerrank.com/contests/weekhack-warmup-msuiit/challenges
