@@ -6,14 +6,21 @@
 
 <div align="center">
   
-  ## README
-  Details about the problem set will not be posted here, rather; the links leading to the problem will be given or images will be provided.
+  ## README Section
+  
   
 </div>
 
 <div align="center">
   
-  ### The sample sets shall be taken from HackerRank.
+  ## Sample Set
+  
+</div>
+
+
+<div align="center">
+  
+  ## Sample Sets shall be taken from HackerRank.
   
 </div>
 
@@ -22,8 +29,6 @@
   Sources for the sample problem set are taken from We.ekHack Warm-up Questions.<br>
   Link to the problem set: https://www.hackerrank.com/contests/weekhack-warmup-msuiit/challenges
 </div>
-
-
 <div align="center">
   
 ## Problem Name: 3D Surface Area.
