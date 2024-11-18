@@ -13,9 +13,14 @@
   <h2>This is a sample problem set that is used to practice using Github.</h2>
 </div>
 
+<div align="center">
+  <h3>
+  Problem Name: 3D Surface Area.
+  </h3>
+</div>
+
 <div align="left">
   <p>
-  Problem Name: 3D Surface Area.<br>
-  Link to the sample problem: https://www.hackerrank.com/contests/weekhack-warmup-msuiit/challenges/3d-surface-area
+  Link to the problem set: https://www.hackerrank.com/contests/weekhack-warmup-msuiit/challenges
   </p>
 </div>
