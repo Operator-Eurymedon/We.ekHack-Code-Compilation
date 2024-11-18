@@ -5,9 +5,9 @@
 </div>
 
 <div align="center">
-  <h3>
+  <h2>
     This is a sample problem set that is used to practice using Github.
-  </h3>
+  </h2>
   
 </div>
 
