@@ -18,9 +18,9 @@
 </div>
 
 <div align="center">
-  <h2>
+  <h3>
     Problem Name: 3D Surface Area.
-  </h3>
+  </h2>
 </div>
 
 <div align="left">
