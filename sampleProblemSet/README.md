@@ -8,6 +8,11 @@
   
   ## This is a sample problem set that is used to practice using Github.
   
+  <div align="left">
+    Sources for the sample problem set are taken from We.ekHack Warm-up Questions.<br>
+    Link to the problem set: https://www.hackerrank.com/contests/weekhack-warmup-msuiit/challenges
+  </div>
+  
 </div>
 
 
